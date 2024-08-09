@@ -1,1 +1,1 @@
-# js.part_2
+This is my second repositry
